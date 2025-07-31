@@ -1,7 +1,7 @@
-保护版权,此仓库不再维护
+原作者为了保护版权,他原来仓库不再维护
 
-相关新闻：  
+关于社区维护版本请转到:
 
-https://www.landiannews.com/archives/101953.html
+https://github.com/neteasecloudmusicapireborn/api
 
-https://www.ithome.com/0/746/942.htm
+https://github.com/neteasecloudmusicapienhanced/api-enhanced
