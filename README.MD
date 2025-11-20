@@ -2,6 +2,5 @@
 
 关于社区维护版本请转到:
 
-https://github.com/neteasecloudmusicapireborn/api
-
 https://github.com/neteasecloudmusicapienhanced/api-enhanced
+
